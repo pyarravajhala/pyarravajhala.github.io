@@ -1,6 +1,6 @@
 ## Welcome to My Blog
 
-I am trying to learn the programming again. Things have changed quite a bit since the time I did any programming. I did not do any programming actively since 2002. I was formally trained in Oracle, C, C++ and mainframe programming (COBOL, DB2, IMS DB/DC, CICS etc.,) between 1996 and 1998. Soon after the education and training,  I started worked for UK insurance giant where I had to do mainframe programming. I continued to do small, medium projects and some maintenance work. I became busy managing and delivering the projects but my urge to come back to programming was always there. I am hoping to get my hands dirty and do some programming this time.
+I am trying to learn the programming again. Things have changed quite a bit since the time I did any programming. I did not do any programming actively since 2002. I was formally trained in Oracle, C and C++ as part of my education and mainframe programming (COBOL, DB2, IMS DB/DC, CICS etc.,) as part of my work. Soon I moved into management roles and I became busy managing and delivering the projects but my urge to come back to programming was always there. I am hoping to get my hands dirty and do some programming this time.
 
 Programming language | Year | Comments
 -------------------- | ---- | --------
