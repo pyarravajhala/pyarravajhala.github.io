@@ -11,7 +11,7 @@ I am using the [editor on GitHub](https://github.com/pyarravajhala/pyarravajhala
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
 
-I am using https://guides.github.com/ to learn the basics of whatever I am trying to do here.
+I am using [Github guides] (https://guides.github.com/) to learn the basics of whatever I am trying to do here.
 
 ### Markdown
 
