@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Blog
 
-You can use the [editor on GitHub](https://github.com/pyarravajhala/pyarravajhala.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am trying to learn the programming again. Things have changed quite a bit since the time I did any programming. I did not do any programming actively since 2002. I was formally trained in Oracle, C, C++ and mainframe programming (COBOL, DB2, IMS DB/DC, CICS etc.,) between 1996 and 1998. Soon after the education and training,  I started worked for UK insurance giant where I had to do mainframe programming. I continued to do small, medium projects and some maintenance work. I became busy managing and delivering the projects but my urge to come back to programming was always there. I am hoping to get my hands dirty and do some programming this time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am using the [editor on GitHub](https://github.com/pyarravajhala/pyarravajhala.github.io/edit/master/index.md) to maintain and preview the content for my website in Markdown files.
 
-## Markdown
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pyarravajhala/pyarravajhala.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+My Pages site uses the layout and styles from the Jekyll theme I have selected in my [repository settings](https://github.com/pyarravajhala/pyarravajhala.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
